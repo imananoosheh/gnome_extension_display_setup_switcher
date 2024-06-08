@@ -1,0 +1,7 @@
+{
+    "uuid": "display_setup_switcher@nulljuju.dev",
+    "name": "Display Setup Switcher",
+    "description": "Switch between monitor setups",
+    "shell-version": ["3.36", "3.38", "40", "41", "42", "43"],
+    "version": 1
+}
